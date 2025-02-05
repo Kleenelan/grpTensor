@@ -1,0 +1,13 @@
+
+
+
+SRC_HELPER_CPP   := src/helper_cutensorGetErrorString.cpp
+
+
+SRC_CUTENSOR_CPP :=
+
+
+SRC_INTERNAL_CPP :=
+
+
+SRC_CPP := $(SRC_HELPER_CPP)
